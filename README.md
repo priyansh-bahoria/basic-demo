@@ -1,4 +1,4 @@
 # basic-demo
-this is my first Git Repository.
+This is my First Git repository
 <br>
 Author - Priyansh
